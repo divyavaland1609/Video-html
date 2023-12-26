@@ -1,0 +1,19 @@
+*{
+    padding: 0 ;
+    margin:0 ;
+}
+p{
+padding-right: 200px;
+    font-size: 25px;
+}
+button{
+    
+    border: 2px solid #fff;
+    border-radius: 70px;
+}
+button:hover{
+background-color: #fff;
+color: black;
+}
+
+
